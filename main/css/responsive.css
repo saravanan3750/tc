@@ -17794,6 +17794,13 @@
     .sm-w-190px {
         width: 190px !important;
     }
+
+    .sm-tc-w{
+        max-width: 50%;
+        padding-top: 3rem;
+    }
+
+
     .sm-w-200px {
         width: 200px !important;
     }
